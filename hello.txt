@@ -1,1 +1,8 @@
-Hello
+# Hello, I'm LinoTW
+## About Me
+- Keio Univeristy
+- Web / AI /
+- HTML / CSS / Python
+## Skills
+- Python
+- HTML / CSS
