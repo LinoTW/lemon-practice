@@ -1,8 +1,27 @@
-# Hello, I'm LinoTW
-## About Me
-- Keio Univeristy
-- Web / AI /
-- HTML / CSS / Python
-## Skills
-- Python
-- HTML / CSS
+# 👋 Hello! I'm LinoTW
+
+### 🚀 UI/UX Designer | Mobile Developer
+
+---
+
+- 🛠 **Working on:** Mobile-responsive assessment tools and healthcare UIs.
+- 🎯 **Current Goal:** Mastering JLPT N2 and enhancing high-engagement "copy-guided" UI patterns.
+- 🌱 **Learning:** Advanced React Native and Japanese Honorifics (Keigo).
+
+---
+
+### 🧰 Skills
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🗺 Languages
+| Language | Proficiency |
+| :--- | :--- |
+| **English** | Professional Working Proficiency |
+| **Japanese** | Intermediate (N2 Candidate) |
+| **Mandarin** | Native |
+
+---
+
+📫 **How to reach me:** k_ossianlin@keio.jp
